@@ -1,0 +1,32 @@
+c:\users\pc07lab4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.exe.config
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.exe
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.pdb
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.xml
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.vbprojResolveAssemblyReference.cache
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Form1.resources
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Resources.resources
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.vbproj.GenerateResource.Cache
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.exe
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.xml
+C:\Users\PC07LAB4\documents\visual studio 2015\Projects\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.pdb
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.exe.config
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.exe
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.xml
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.pdb
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.vbprojResolveAssemblyReference.cache
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Form1.resources
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Resources.resources
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.vbproj.GenerateResource.Cache
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.exe
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.pdb
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.xml
+D:\GA-Andrea\GA-Andrea\bin\Debug\GA-Andrea.exe.config
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.exe
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.xml
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.pdb
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.vbprojResolveAssemblyReference.cache
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Form1.resources
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Form2.resources
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Resources.resources
+D:\GA-Andrea\GA-Andrea\obj\Debug\GA-Andrea.vbproj.GenerateResource.Cache
+C:\Users\PC07LAB4\Desktop\GA-Andrea\GA-Andrea\obj\Debug\GA_Andrea.Form2.resources
